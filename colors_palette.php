@@ -17,7 +17,7 @@
 
             echo "<div class ='color-card'>";
             echo "  <div class ='color-display' style='background-color: {$hexColor};'>  </div>";
-            echo "  <p> class ='color-card'</p>";
+            echo "  <p class ='color-card'>{$hexColor}</p>";
             echo "</div>";
             ?>
         </div>
